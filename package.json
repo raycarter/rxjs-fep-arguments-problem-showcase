@@ -1,0 +1,12 @@
+{
+  "name": "rxjs-fep-arguments-problem-showcase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/raycarter/rxjs-fep-arguments-problem-showcase.git",
+  "author": "Sheng, Li <sheng-li@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "oboe": "^2.1.4",
+    "rxjs": "^5.5.2"
+  }
+}
