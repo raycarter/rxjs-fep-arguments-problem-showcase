@@ -3,7 +3,7 @@ const Oboe = require('oboe');
 
 // create oboe instance
 const oboe = Oboe({
-  url: 'http://test-streaming.shengsoft.net',
+  url: '', // any streaming service
   method: 'GET'
 });
 
